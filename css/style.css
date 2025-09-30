@@ -20,6 +20,13 @@
   border: 4px solid red;
 }
 
+.pbanner2 {
+  font-family: Georgia;
+  color: burlywood;
+  text-align: center;
+  font-size: 35px;
+}
+
 .body {
   background-image: url('https://assets.goal.com/images/v3/blt750bbc2212942232/GettyImages-1967999408.jpg?auto=webp&format=pjpg&width=2048&quality=60');
 }
