@@ -21,7 +21,7 @@
 }
 
 .pbanner2 {
-  font-family: Georgia;
+  font-family: inherit;
   color: burlywood;
   text-align: center;
   font-size: 35px;
