@@ -5,4 +5,4 @@
 This project is a web development learning code from scratch 
 
 
-URL: https://fvxkyqnxxd.github.io/ucg-page/
+URL: https://fvxkyqnxxd.github.io/about-me
